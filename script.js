@@ -60,14 +60,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const prevButton = document.getElementById("prev");
     const nextButton = document.getElementById("next");
     const imageFiles = [
-    "image 1 (1).jPG",
-    "image 1 (2).jPG",
-    "image 1 (3).jPG",
-    "image 1 (4).JPEG",
-    "1.PNG",
-    "2.PNG",
-    "3.PNG",
-    "4.PNG"
+    "image 1 (1).jpg",
+    "image 1 (2).jpg",
+    "image 1 (3).jpg",
+    "image 1 (4).jpeg",
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
     
     
     ];
